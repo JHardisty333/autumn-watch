@@ -1,6 +1,5 @@
-## React Protfolio
-# Profolio
-## Week 2 Challenge
+# React Protfolio
+## Week 20 Challenge
 
 ## Scope
 Welcome to my Protfolio! A simple webpage that highlights my current or past projects with contact information and future developments in my coding career. 
