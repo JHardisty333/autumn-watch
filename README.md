@@ -11,7 +11,7 @@ The following animation demonstrates the application functionality:
 
 ## Website link 
 
-<a href="https://jhardisty333.github.io/permanently-fall/">Portfolio Link</a>
+<!-- <a href="https://jhardisty333.github.io/permanently-fall/">Portfolio Link</a> -->
 
 <a href="https://jhardisty333.github.io/autumn-watch/">Portfolio Link</a>
 
