@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/autumn-watch/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/autumn-watch/static/js/main.9ba12855.chunk.js",
+    "main.js.map": "/autumn-watch/static/js/main.9ba12855.chunk.js.map",
+    "runtime-main.js": "/autumn-watch/static/js/runtime-main.0fb08593.js",
+    "runtime-main.js.map": "/autumn-watch/static/js/runtime-main.0fb08593.js.map",
+    "static/js/2.74b4deaf.chunk.js": "/autumn-watch/static/js/2.74b4deaf.chunk.js",
+    "static/js/2.74b4deaf.chunk.js.map": "/autumn-watch/static/js/2.74b4deaf.chunk.js.map",
+    "static/js/3.b497d33a.chunk.js": "/autumn-watch/static/js/3.b497d33a.chunk.js",
+    "static/js/3.b497d33a.chunk.js.map": "/autumn-watch/static/js/3.b497d33a.chunk.js.map",
+    "index.html": "/autumn-watch/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/autumn-watch/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.74b4deaf.chunk.js.LICENSE.txt": "/autumn-watch/static/js/2.74b4deaf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/autumn-watch/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fb08593.js",
+    "static/js/2.74b4deaf.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.9ba12855.chunk.js"
+  ]
+}
